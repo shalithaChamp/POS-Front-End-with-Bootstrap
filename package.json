@@ -1,0 +1,10 @@
+{
+  "name": "Front-end-for-POS-System-with-bootstrap",
+  "version": "1.0.0",
+  "devDependencies": {
+    "browser-sync": "^2.26.13"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
+}
